@@ -47,8 +47,8 @@ const Info = styled.div`
 `;
 
 const Container = styled.div`
-  flex: 1;
   margin: 5px;
+  width: calc(25% - 10px);
   height: 65vh;
   overflow: hidden;
   position: relative;
